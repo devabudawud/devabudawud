@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **PHP.JS**
+- 🌱 I’m currently learning **PHP.JS.SQL**
 
 - 🤝 I’m looking for help with **Proffetional Web Designer & Developer And Wordpress Expart | Helping Business Creators Building responsive user-friendly websites.**
 
